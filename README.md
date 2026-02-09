@@ -1,48 +1,38 @@
-<h1 align="center">🔍 Вячеслав Еремин</h1>
-<h3 align="center">Full‑stack QA Engineer | Manual + Automation | Python</h3>
+# 👨‍💻 Вячеслав Еремин | Full‑stack QA Engineer (Manual + Automation)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Allure-FF6B6B?logo=&logoColor=white" />
-</p>
-
----
-
-### 📌 **Опыт и компетенции**
-- ✅ **Ручное тестирование:** функциональное, регрессионное, кросс‑браузерное, мобильное
-- 🤖 **Автоматизация:** Python + Selenium, API-автотесты, Pytest, Allure
-- 📡 **API-тестирование:** Postman коллекции, REST, интеграционные тесты
-- 🗂️ **Тест-документация:** чек-листы, тест-кейсы, баг-репорты (YouTrack, Google Таблицы)
-- 🔧 **Инструменты:** Git, Docker, Charles, Figma, Android Studio, DevTools
+### 🛠️ Технологический стек
+- **Языки:** Python, SQL
+- **Автоматизация UI:** Selenium WebDriver, Pytest, Page Object Model
+- **Тестирование API:** Postman, Python (requests), REST API
+- **Инструменты:** Git, Docker, Allure Reports, Charles, Figma, DevTools
+- **CI/CD:** GitHub Actions, базовые знания Jenkins/GitLab CI
+- **Базы данных:** Работа с SQL, опыт валидации данных
+- **Мобильное тестирование:** Android Studio, эмуляторы, ручное тестирование
+- **В процессе изучения:** Playwright, Appium, k6/JMeter, GraphQL, Security QA
 
 ---
 
-### 🧠 **Ключевые проекты**
-| Проект | Роль | Результат |
-|--------|------|-----------|
-| **Stellar Burgers** | Автоматизация UI + API | Покрытие регрессии, внедрение CI/CD |
-| **Яндекс.Самокат** | UI-автотесты + валидация API | Набор smoke-тестов для релизов |
-| **Яндекс.Прилавок** | API-тестирование (50+ эндпоинтов) | Структурированные коллекции Postman |
+### 📂 Ключевые проекты
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Stellar Burgers](https://github.com/SlavianYNX/stellar-burgers) | Полная автоматизация веб-приложения доставки еды | Python, Selenium, Pytest, Allure, GitHub Actions |
+| [Яндекс.Самокат](https://github.com/SlavianYNX/yandex-samokat) | UI + API автотесты, интеграция с Allure | Python, Postman, Selenium, Page Object |
+| [Яндекс.Прилавок](https://github.com/SlavianYNX/yandex-prilavok) | API-тестирование, параметризованные коллекции Postman | Postman, REST API, Google Sheets |
 
 ---
 
-### 📚 **Изучаю сейчас**
-- Playwright, Appium, Cypress
-- Нагрузочное тестирование (k6, JMeter)
-- Микросервисы, Kafka, GraphQL
-- Основы security и accessibility testing
+### 📈 Статистика активности
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlavianYNX&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlavianYNX&layout=compact)
 
 ---
 
-### 📩 **Связаться со мной**
-<p align="left">
-  <a href="https://t.me/SlavikErem">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:slavik.eremin@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📬 Контакты
+- **Telegram:** [@SlavikErem](https://t.me/SlavikErem)
+- **Email:** [slavik.eremin@yandex.ru](mailto:slavik.eremin@yandex.ru)
+- **Резюме:** [PDF](ссылка_на_резюме)
+- **GitHub:** [SlavianYNX](https://github.com/SlavianYNX)
+
+---
+
+> *“Качество — это не случайность, это результат сознательных усилий.”*

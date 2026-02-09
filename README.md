@@ -1,4 +1,3 @@
-<h1 align="center">🔍 Вячеслав Еремин</h1>
 <h3 align="center">Full‑stack QA Engineer | Manual + Automation | Python</h3>
 
 <p align="center">

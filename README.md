@@ -3,7 +3,7 @@
 Я верю, что качество начинается с внимания к деталям.
 -->
 
-<h1 align="center">Привет, я Вячеслав Еремин 👋</h1>
+<h1 align="center">Привет! Hello!👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=QA+Engineer+(Manual+%2B+Automation);15+лет+в+обеспечении+качества;Python+%7C+Pytest+%7C+Selenium;Автоматизация+%2B+AI" alt="Typing SVG" />
@@ -88,8 +88,8 @@ QA Engineer / QA Automation Engineer с опытом функционально�
 
 ### 📫 Как связаться
 
-- **Telegram:** [@SlavikErem](https://t.me/SlavikErem) (замените на ваш)
-- **Email:** slavik.eremin@yandex.ru (замените на ваш)
+- **Telegram:** [@SlavikErem](https://t.me/SlavikErem)
+- **Email:** slavik.eremin@yandex.ru
 
 ---
 

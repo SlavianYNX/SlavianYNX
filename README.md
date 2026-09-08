@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Обо мне
 
-Инженер по тестированию с **15-летним бэкграундом** в высокотехнологичном производстве и глубоким пониманием процессов обеспечения качества[reference:5]. Специализируюсь на автоматизации (Python, Pytest, Selenium), API-тестировании и внедрении AI-инструментов для оптимизации QA-процессов[reference:6]. Умею выстраивать качество в условиях нечетких требований (стартапы, AI-продукты)[reference:7].
+QA Engineer / QA Automation Engineer с опытом функционального, API и UI-тестирования веб-приложений. Автоматизирую тестирование на Python, Pytest и Selenium, использую POM, Requests, Allure и GitHub Actions. Работаю с REST API, Postman, Swagger/OpenAPI, SQL и DevTools. Есть опыт тестирования AI/LLM-продуктов и оценки качества LLM-ответов. Умею работать с изменяющимися требованиями и взаимодействовать с разработчиками и аналитиками.)[reference:7].
 
 > 🚀 **Открыт для предложений** на позиции QA Engineer (Manual + Automation)[reference:8].
 > Если вы ищете системно мыслящего специалиста, который не просто находит баги, но и понимает архитектуру продукта и умеет автоматизировать рутину — буду рад обсудить сотрудничество[reference:9].
@@ -86,31 +86,10 @@
 
 ---
 
-### 📌 Pinned Projects
-
-Ниже представлены проекты, которые наиболее полно отражают мой подход к автоматизации и качеству:
-
-| Проект | Описание |
-|--------|----------|
-| [**test-qa-test-project-main**](https://github.com/SlavianYNX/test-qa-test-project-main) | Фреймворк для автоматизированного тестирования (UI + API) на Python с использованием Pytest, Selenium и Allure[reference:17]. |
-| [**test_3snet_info_2**](https://github.com/SlavianYNX/test_3snet_info_2) | Проект по автоматизации тестирования (описание обновляется)[reference:18]. |
-
----
-
-### 📊 Статистика активности
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlavianYNX&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavianYNX&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Как связаться
 
-- **Telegram:** [@your_telegram](https://t.me/your_telegram) (замените на ваш)
-- **Email:** your.email@example.com (замените на ваш)
-- **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/your-linkedin/) (замените на ваш)
+- **Telegram:** [@SlavikErem](https://t.me/SlavikErem) (замените на ваш)
+- **Email:** slavik.eremin@yandex.ru (замените на ваш)
 
 ---
 

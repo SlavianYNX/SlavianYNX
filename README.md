@@ -1,4 +1,4 @@
-# Вячеслав Еремин — QA Engineer (Python, API + UI automation)
+# QA Engineer (Python, API + UI automation)
 
 Санкт-Петербург · удалённо, гибрид или офис · открыт к предложениям
 **test.job7807@gmail.com** · [@SlavikErem](https://t.me/SlavikErem) · [Резюме на hh.ru](https://spb.hh.ru/resume/9e780a46ff10931ff20039ed1f51364170504e?hhtmFrom=profile)

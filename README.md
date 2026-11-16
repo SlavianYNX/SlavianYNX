@@ -1,81 +1,153 @@
-<!--
-Если вы читаете это, значит, вы заглянули в код. Добро пожаловать! 
-Я верю, что качество начинается с внимания к деталям.
--->
+# Вячеслав Еремин — QA Engineer (Python, API + UI automation)
 
-<h1 align="center">Привет! Hello!👋</h1>
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-Report-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+Тестирую веб- и мобильные приложения, автоматизирую проверки на Python. Сильные стороны — **REST API и тестирование безопасности**, **трассируемость тестов к требованиям** и **запуск автотестов в CI**.
 
-### 👨‍💻 Обо мне
+📍 Санкт-Петербург · 💼 открыт к предложениям: удалённо, гибрид или офис в СПб
+📫 **test.job7807@gmail.com** · Telegram: [@SlavikErem](https://t.me/SlavikErem)
+📄 Резюме: [hh.ru](ССЫЛКА_НА_РЕЗЮМЕ)
 
-QA Engineer / QA Automation Engineer с опытом функционального, API и UI-тестирования веб-приложений. Автоматизирую тестирование на Python, Pytest и Selenium, использую POM, Requests, Allure и GitHub Actions. Работаю с REST API, Postman, Swagger/OpenAPI, SQL и DevTools. Есть опыт тестирования AI/LLM-продуктов и оценки качества LLM-ответов. Умею работать с изменяющимися требованиями и взаимодействовать с разработчиками и аналитиками.
-
-> 🚀 **Открыт для предложений** на позиции QA Engineer (Manual + Automation).
-> Если вы ищете системно мыслящего специалиста, который не просто находит баги, но и понимает архитектуру продукта и умеет автоматизировать рутину — буду рад обсудить сотрудничество.
-
----
-
-### 🛠️ Технологический стек
-
-#### Языки и автоматизация
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### API и сети
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-badge&logo=charles&logoColor=white)
-
-#### Инфраструктура и CI/CD
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=allure&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-#### Менеджмент и документация
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
-![TestIT](https://img.shields.io/badge/TestIT-2C3E50?style=for-the-badge&logo=testing&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### AI в QA
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00B4D8?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6CF7?style=for-the-badge&logo=deepseek&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+> Код коммерческих проектов закрыт. Ниже — публичные проекты, которые можно смотреть целиком, и описание задач с проверяемыми метриками. Обезличенные артефакты (RTM, Allure-отчёт, page objects, чек-листы, баг-репорты) предоставляю по запросу.
 
 ---
 
-### 🏆 Ключевые достижения
+## 🛠 Стек
 
-#### <img src="https://img.icons8.com/color/20/000000/rocket.png"/> Акатосфера (Стартап «Сарафан доставка») | QA Engineer
-- Сократил количество критичных багов на продакшене на **15%** за счет внедрения кроссбраузерного и API-тестирования.
-- Внедрил AI-инструменты для генерации сложных тестовых данных, ускорив подготовку тестовой документации на **20%**.
-- Настроил CI/CD пайплайн (GitHub Actions) для автоматического запуска UI-автотестов (Python + Selenium + POM).
+| Направление | Инструменты |
+|---|---|
+| **Автоматизация** | Python, pytest, Playwright, Selenium WebDriver, Page Object Model, requests, allure-pytest |
+| **API** | REST, Postman, Newman, Swagger/OpenAPI, JSON, JWT-авторизация, STOMP over WebSocket |
+| **CI/CD** | Git, GitHub Actions (nightly-регресс, smoke на деплой, артефакты и секреты) |
+| **Тест-дизайн и документация** | чек-листы, тест-кейсы, тест-план, матрица трассируемости (RTM), баг-репорты |
+| **Инструменты** | TestIT, Jira, YouTrack, DevTools, Figma, Android Studio / эмулятор |
+| **Базовый уровень** | SQL, Docker (учебные стенды), bash |
 
-#### <img src="https://img.icons8.com/color/20/000000/artificial-intelligence.png"/> Aimy (AI-платформа «Kodik») | QA Engineer
-- Провел комплексное тестирование российской AI-IDE: генерация кода, рефакторинг по промптам.
-- Занимался валидацией качества ответов LLM-моделей и тестированием интеграций с внешними репозиториями через MCP-серверы.
-
-#### <img src="https://img.icons8.com/color/20/000000/idea.png"/> Pet-проекты
-- Реализовал полный цикл автоматизации (UI + API) с использованием Pytest, Allure Reports и параметризованных коллекций Postman.
-- Глубоко применяю техники тест-дизайна (граничные значения, классы эквивалентности) для покрытия edge-кейсов.
+Английский — A2, читаю техническую документацию.
 
 ---
 
-### 📫 Как связаться
+## 💼 Коммерческий опыт
 
-- **Telegram:** [@SlavikErem](https://t.me/SlavikErem)
-- **Email:** slavik.eremin@yandex.ru
+### ООО «Акатосфера» — QA Engineer · с апреля 2026
+
+Продукты: **Акатосфера ИИ (North Messenger)** — корпоративный мессенджер (Web SPA + Android-клиент Orca), **Sarawan** — сервис доставки (клиентское и курьерское приложения), **Dogbuddy** — Telegram Mini App, **Memento** — цифровой семейный архив.
+
+Работаю в QA-группе из 4 тестировщиков. С нуля выстроил на проекте тестовую документацию, процесс регресса и автоматизацию: требования → чек-лист → тест-план → RTM.
+
+**Акатосфера ИИ (North Messenger) — ключевые метрики:**
+
+| Показатель | Значение |
+|---|---|
+| Автотестов (UI + API) | **306**, из них **98** API |
+| Покрытие функциональных требований | **101 из 169 (60%)** |
+| Покрытие требований приоритета P0 | **42 из 73** |
+| API-регресс | **157 / 157** проверок |
+| Баг-трекинг | **29** подтверждённых записей, **19** исправлены |
+| Дефекты, закреплённые регрессионными тестами | **3** (режим `xfail`) |
+
+<details>
+<summary><b>Подробнее: North Messenger</b></summary>
+
+- **Автотесты:** Python + pytest + Playwright (sync API и `APIRequestContext`), POM, UI параметризован по Chromium и Firefox.
+- **Трассируемость:** маркер `pytest.mark.req` и выгрузка `reports/rtm.json`; ручные контуры (INT, ADM, AND) описаны отдельно.
+- **CI:** GitHub Actions — ночной полный регресс, smoke на каждый деплой, публикация Allure-отчётов. Мутационные проверки отделены маркером: `pytest -m "not mutating" --alluredir=reports/allure-results --rtm-out=reports/rtm.json`.
+- **Realtime:** автоматизированные проверки через STOMP over WebSocket — отправка сообщений, публикации канала, комментарии.
+- **Безопасность:** IDOR с подстановкой чужих `chatId` / `messageId` / `attachmentId`, CSRF, XSS, доступ без токена, идемпотентность отправки по `clientMessageId`, отзыв сессии и список устройств.
+- **Дефекты:** среди найденных P0 — отсутствие переноса сообщений между темами и неидемпотентный PATCH канала; отдельно веду журнал наблюдений по автотестам, подтверждённые дефекты закрепляю регрессионными тестами.
+
+</details>
+
+<details>
+<summary><b>Подробнее: Sarawan (Сарафан) — доставка</b></summary>
+
+- **UI-автотесты** клиентского и курьерского приложений: Python, pytest, Selenium WebDriver, POM. Локаторы и тестовые данные вынесены в отдельные модули; в фикстуре `driver` — обработка сетевых ошибок и повторные запуски.
+- **API-автотесты:** requests (`ApiClient` на `requests.Session`), JWT-авторизация двух ролей (фикстуры клиента и курьера, отдельный анонимный клиент), allure-pytest. Покрыты аутентификация, создание, отслеживание, отмена и доставка заказа.
+- **Сквозной сценарий «Клиент → Курьер → Клиент»** с проверкой бизнес-правил: отмена только до взятия заказа курьером, расчёт стоимости по адресам / типу доставки / весу, отметки получения и оплаты, завершение доставки.
+
+</details>
+
+<details>
+<summary><b>Подробнее: Dogbuddy, Memento, Orca</b></summary>
+
+**Dogbuddy (Telegram Mini App)**
+Декомпозиция требований, чек-лист на **277 проверок по 18 модулям**, **131 тест-кейс** с трассировкой на проверки, план тестирования и план автоматизации. Функциональное тестирование веб- и мобильной версии, сверка вёрстки с Figma.
+
+**Memento (MVP цифрового семейного архива)**
+QA-анализ **11 функциональных модулей**, оценка объёма покрытия (**~250 тест-кейсов**, риск-ориентированный вариант). Проверки безопасности: HTTP→HTTPS и флаг Secure у cookie, CSRF, XSS, IDOR, подделка MIME при загрузке, лимиты тарифов. Подтвердил **3 дефекта** и написал Python-скрипт воспроизведения: авторизация, работа с CSRF-токеном и сессией, сравнение проблемного и рабочего endpoint'ов.
+
+**Orca (Android-клиент)**
+Подготовил набор мобильных автотестов с конфигурацией и документацией по запуску (выполняются при наличии устройства/эмулятора), сравнивал APK-сборки между релизами.
+
+</details>
+
+### Aimy — QA Engineer (стажировка) · февраль–апрель 2026
+
+AI-платформа **«Kodik»** — российская AI-IDE для генерации и рефакторинга кода.
+
+- Функциональное и исследовательское тестирование сценариев генерации кода по промпту, создания файлов, автономного рефакторинга.
+- Оценка качества ответов LLM: релевантность, безопасность, корректность правок.
+- Проверка интеграций с внешними репозиториями через **MCP-серверы**.
+- Стажировка завершена с официальной рекомендацией.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SlavianYNX&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🧪 Публичные проекты
+
+### [`kalkulyator-smet-tests`](https://github.com/SlavianYNX/kalkulyator-smet-tests) — UI-автотесты калькулятора смет
+**Python · Playwright · pytest · POM** · тестовое задание
+
+15 автоматизированных сценариев: расчёт тарифов, валидация полей, проверка итоговой сметы в **Excel** — структура таблиц, согласованность сумм (база + НДС = итог), отсутствие `NaN` / `undefined`.
+
+- Проверки построены на **инвариантах**, выводимых из правил, а не на зашитых константах — устойчивы к смене тарифов стенда.
+- Кастомный отчёт о прогоне в `conftest.py`: TC-ID, статус, длительность, сводка и корректный exit code.
+- Реальные JS-ошибки валят тест, сетевой шум второстепенных ресурсов фильтруется.
+- Оформлены **3 дефекта стенда** с severity и шагами воспроизведения, тест-кейсы — в Markdown с генерацией в xlsx.
+
+### [`restful_booker_API`](https://github.com/SlavianYNX/restful_booker_API) — API-тестирование RestfulBooker
+**Postman · Newman · GitHub Actions**
+
+**39 тест-кейсов** и **289 проверок**: `POST /auth`, CRUD `/booking`, фильтры списка, `GET /ping`.
+
+- Прогон в GitHub Actions с секретами и HTML-отчётом в артефактах; отчёт собирается без заголовков и тел запросов, чтобы креды не попадали в артефакт.
+- **12 баг-репортов** в xlsx с ожидаемым и фактическим поведением: `200` вместо `401`, `500` вместо `422`, `201` вместо `204`, `405` вместо `404` и др.
+- Проверки контракта (deep-equal), персистентности данных повторным GET, уникальности ID, точных тел ошибок.
+
+---
+
+## 📚 Учебные проекты
+
+**Яндекс Практикум, «Инженер по тестированию» (2025)**
+
+- **Stellar Burgers** — UI- и API-автотесты: Python, pytest, Selenium, requests, Allure, POM, GitHub Actions.
+- **Яндекс.Прилавок** — функциональное и интеграционное тестирование REST API, параметризованные коллекции Postman, тест-дизайн (граничные значения, классы эквивалентности).
+- **Яндекс.Метро** — регрессионное тестирование мобильного приложения на эмуляторе Android Studio, чек-листы и дефекты в YouTrack.
+
+---
+
+## 🎯 Принципы работы
+
+- **Трассируемость важнее количества:** каждый автотест привязан к требованию, покрытие считается, а не декларируется.
+- **Известный дефект — `xfail`, а не подогнанный ассерт:** пайплайн не «зеленеет» за счёт проверки багованного поведения.
+- **Ассерты на инварианты:** проверяю согласованность и реакцию системы, а не константы, которые завтра поменяются.
+- **Секреты — только в secrets CI:** ни креды, ни адреса тестовых стендов не попадают в репозиторий и артефакты.
+
+---
+
+## 🌱 Сейчас прокачиваю
+
+SQL до рабочего уровня (JOIN, агрегаты, проверка данных из автотестов) · Docker для тестовых стендов · GitLab CI · английский к B1.
+
+---
+
+## 📫 Контакты
+
+**test.job7807@gmail.com** · Telegram: [@SlavikErem](https://t.me/SlavikErem) · [Резюме на hh.ru](ССЫЛКА_НА_РЕЗЮМЕ)
+
+Открыт к позициям QA Engineer / QA Automation (Python). Готов к тестовому заданию.
